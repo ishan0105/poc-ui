@@ -51,7 +51,7 @@ const HomePage = () => {
           fontWeight: "bolder",
         }}
       >
-        TODO LIST
+        TODO LIST Version 2
       </Row>
 
       <hr />
